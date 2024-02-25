@@ -1,3 +1,3 @@
 My JSDelivr CDN
 
-https://cdn.jsdelivr.net/gh/wkk-dev/cdn
+https://cdn.jsdelivr.net/gh/wkk-dev/cdn/
