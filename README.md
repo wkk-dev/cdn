@@ -1,2 +1,2 @@
 My JSDelivr
-https://fastly.jsdelivr.net/gh/wkk-dev/cdn/
+https://jsd.cdn.zzko.cn/gh/wkk-dev/cdn@master
